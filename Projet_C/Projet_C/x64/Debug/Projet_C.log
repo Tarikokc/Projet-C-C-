@@ -1,0 +1,12 @@
+﻿  app.c
+  machine.c
+C:\Users\Tarik\Documents\Amar_cours\Projet_C\Projet_C\machine.c(34,22): warning C4047: '==' : les niveaux d'indirection de 'int' et de 'char [2]' sont différents
+C:\Users\Tarik\Documents\Amar_cours\Projet_C\Projet_C\machine.c(34,44): warning C4047: '==' : les niveaux d'indirection de 'int' et de 'char [2]' sont différents
+C:\Users\Tarik\Documents\Amar_cours\Projet_C\Projet_C\machine.c(34,66): warning C4047: '==' : les niveaux d'indirection de 'int' et de 'char [2]' sont différents
+C:\Users\Tarik\Documents\Amar_cours\Projet_C\Projet_C\machine.c(87,13): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\Users\Tarik\Documents\Amar_cours\Projet_C\Projet_C\machine.c(87,13): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+C:\Users\Tarik\Documents\Amar_cours\Projet_C\Projet_C\machine.c(87,13): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
+C:\Users\Tarik\Documents\Amar_cours\Projet_C\Projet_C\machine.c(87,13): message : cet argument est utilisé comme taille de mémoire tampon
+  Génération de code en cours...
+C:\Users\Tarik\Documents\Amar_cours\Projet_C\Projet_C\machine.c(99): warning C4715: 'Replay' : les chemins de contrôle ne retournent pas tous une valeur
+  Projet_C.vcxproj -> C:\Users\Tarik\Documents\Amar_cours\Projet_C\x64\Debug\Projet_C.exe
